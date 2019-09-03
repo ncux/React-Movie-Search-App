@@ -1,0 +1,10 @@
+
+.searchInput {
+    font-size: 1.5rem;
+    /*display: block;*/
+    width: 50%;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
